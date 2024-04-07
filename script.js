@@ -1,5 +1,5 @@
-var confirm = new Audio("confirm.mp3");
-var error = new Audio("error.mp3");
+var confirm = new Audio("files/confirm.mp3");
+var error = new Audio("files/error.mp3");
 
 function CalcolaResto() {
     let mat=document.getElementById("input").value;
